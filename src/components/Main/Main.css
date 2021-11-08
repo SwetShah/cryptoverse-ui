@@ -1,0 +1,10 @@
+.Main {
+  border: 1px solid black;
+  padding: 2rem;
+}
+
+.row {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
