@@ -1,6 +1,13 @@
 # cryptoverse-ui 
 
 
+## Please refer the below link to see the working of the application live.
+
+FrontEnd - https://cryptoverse-ui.herokuapp.com/
+
+Backend - https://crypto-verse-swet.herokuapp.com/crypto/
+
+
 The default page of UI shows the inputs(coins, exchanges, currencies) that must be entered to fetch the prices and recommendations.
 
 The output of each is shown as tables for both prices and recommendations.
