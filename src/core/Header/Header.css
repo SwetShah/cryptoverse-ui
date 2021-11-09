@@ -1,7 +1,11 @@
 .Header {
   width: 100%;
-  background-color: pink;
-  height: 2rem;
+  background-color: hsl(210, 8%, 95%);
+  padding: 2rem;
   text-align: center;
   vertical-align: center;
+}
+
+.Header div {
+  width: 100%;
 }

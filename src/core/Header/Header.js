@@ -3,7 +3,9 @@ import './Header.css';
 function Header() {
   return (
     <div className="Header">
-      Chainalysis
+      <div>
+        Chainalysis
+      </div>
     </div>
   );
 }

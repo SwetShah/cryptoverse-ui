@@ -1,0 +1,17 @@
+#priceTable {
+  font-family: arial, sans-serif;
+  border-collapse: collapse;
+  width: 100%;
+  margin: auto;
+}
+
+#priceTable td,
+#priceTable th {
+  border: 1px solid black;
+  text-align: left;
+  padding: 8px;
+}
+
+#priceTable thead {
+  background-color: #dddddd;
+}

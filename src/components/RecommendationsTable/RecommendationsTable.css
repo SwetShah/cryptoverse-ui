@@ -1,0 +1,17 @@
+#recommendationsTable {
+  font-family: arial, sans-serif;
+  border-collapse: collapse;
+  width: 100%;
+  margin: auto;
+}
+
+#recommendationsTable td,
+#recommendationsTable th {
+  border: 1px solid black;
+  text-align: left;
+  padding: 8px;
+}
+
+#recommendationsTable thead {
+  background-color: #dddddd;
+}

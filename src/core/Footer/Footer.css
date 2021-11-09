@@ -1,10 +1,14 @@
 .Footer {
   width: 100%;
-  background-color: pink;
-  height: 2rem;
-  text-align: center;
+  background-color: hsl(210, 8%, 95%);
+  padding: 2rem;
+  align-items: center;
   vertical-align: center;
   position: fixed;
   bottom: 0;
   left: 0;
+}
+
+.Footer div {
+  width: 100%;
 }

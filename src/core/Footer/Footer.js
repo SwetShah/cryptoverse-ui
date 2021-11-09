@@ -4,8 +4,8 @@ function Footer() {
   return (
     <div className="Footer">
       <div>
-        Footer
-      </div> 
+        Note: This prices does not include the trading fees charged for each exchange. Please check the final price on exchange before doing any transactions.
+      </div>
     </div>
   );
 }
