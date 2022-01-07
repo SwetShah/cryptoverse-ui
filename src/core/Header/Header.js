@@ -4,7 +4,7 @@ function Header() {
   return (
     <div className="Header">
       <div>
-        Chainalysis
+        CryptoVerse
       </div>
     </div>
   );
